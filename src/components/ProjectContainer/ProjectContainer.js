@@ -22,6 +22,8 @@ const ProjectContainer = ({ project }) => (
       <a
         href={project.sourceCode}
         aria-label='source code'
+        target="_blank"
+        rel="noreferrer"
         className='link link--icon'
       >
         <GitHubIcon />
