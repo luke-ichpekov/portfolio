@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.fe930ea9.chunk.css",
+    "main.js": "/portfolio/static/js/main.28c0fb0b.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.28c0fb0b.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.0bf68c44.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.0bf68c44.js.map",
+    "static/js/2.57683e79.chunk.js": "/portfolio/static/js/2.57683e79.chunk.js",
+    "static/js/2.57683e79.chunk.js.map": "/portfolio/static/js/2.57683e79.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.fe930ea9.chunk.css.map": "/portfolio/static/css/main.fe930ea9.chunk.css.map",
+    "static/js/2.57683e79.chunk.js.LICENSE.txt": "/portfolio/static/js/2.57683e79.chunk.js.LICENSE.txt",
+    "static/media/luke_Ichpekov_Resume_FEB_2023.27289665.pdf": "/portfolio/static/media/luke_Ichpekov_Resume_FEB_2023.27289665.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bf68c44.js",
+    "static/js/2.57683e79.chunk.js",
+    "static/css/main.fe930ea9.chunk.css",
+    "static/js/main.28c0fb0b.chunk.js"
+  ]
+}
