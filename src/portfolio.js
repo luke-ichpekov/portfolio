@@ -37,6 +37,15 @@ const projects = [
     livePreview: 'https://luke-ichpekov.github.io/RetroAI/',
 
   },
+  {
+    name: 'JS art generator',
+    description:
+      'generative art using javascript :)',
+    stack: ['Javascript', 'p5.js'],
+    sourceCode: 'https://github.com/luke-ichpekov/JS-Art-generator-',
+    livePreview: 'https://luke-ichpekov.github.io/JS-Art-generator-/',
+
+  },
 ]
 
 const skills = [

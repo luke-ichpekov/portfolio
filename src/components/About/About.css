@@ -1,7 +1,6 @@
 .about {
   flex-direction: column;
-  margin-top: 10em;
-  height: calc(100vh - 15em);
+  padding: 5em 0em 10em 0em;
 }
 
 .about__name {
@@ -32,7 +31,8 @@
 
 @media (max-width: 600px) {
   .app .about {
-    align-items: flex-start;
     margin-top: 2em;
+    padding: 0em;
+
   }
 }
