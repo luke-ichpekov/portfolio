@@ -7,27 +7,33 @@ const Tabs = () => {
     const tabs = [
         {
             id: 1,
-            tabTitle: 'League',
-            title: 'Software Engineering intern',
-            content: 'I improved a web app using React & TypeScript, with streamlined state management and new functional components resulting in better performance, user satisfaction, and fewer support requests. I also helped automate testing with Jest, reducing testing time and improving bug detection. Overall, user engagement increased by 25%.'
+            tabTitle: 'Siemens',
+            title: 'Software Engineering Associate',
+            content: 'Designed and implemented a robust distributed architecture using Docker, Kubernetes, and Kafka to efficiently process and manage billions of daily data points, critical for detecting battery defect formations in EV manufacturing. Engineered a RESTful API in Golang to enable clients to seamlessly utilize data from Apache Druid. Implemented and configured a high-performance Apache Druid database for effective data storage and management. Played a pivotal role in optimizing core functionalities of the project with Golang, including the implementation of critical features such as real-time data processing and seamless handling of large data volumes.'
         },
         {
             id: 2,
-            tabTitle: 'FarmLink',
-            title: 'Software Developer',
-            content: 'I developed a contract information extraction service that reduced data entry time by 70%, improved accuracy by 30%, and cut server costs by 40%. I integrated the service into a Vue app, boosting user adoption by 25% and reducing support requests by 15%. Modifying ML algorithms improved yearly revenue predictions by 10%, increasing net revenue by 5% and reducing forecasting errors by 15%.'
+            tabTitle: 'League',
+            title: 'Software Engineering intern',
+            content: 'I improved a web app using React & TypeScript, with streamlined state management and new functional components resulting in better performance, user satisfaction, and fewer support requests. I also helped automate testing with Jest, reducing testing time and improving bug detection.'
         },
         {
             id: 3,
-            tabTitle: 'Seismic',
-            title: 'Software Engineering Intern',
-            content: 'I improved user engagement by 20% and reduced support requests by 15% by engineering new UI features with Angular, React, and TypeScript. By streamlining backend processes with Node.js/Express and MongoDB, I reduced data processing time by 30% and improved system responsiveness by 25%. I also resolved long-term bugs, decreasing reports by 40% and improving customer satisfaction by 50%.'
+            tabTitle: 'FarmLink',
+            title: 'Software Developer',
+            content: 'Developed a contract information extraction service, completely eliminating the need for manual data entry and enhancing accuracy. Integrated the service into a Vue app, leading to increased user adoption and a notable decrease in support requests. Modified ML algorithms to improve yearly revenue predictions, resulting in increased net revenue and reduced forecasting errors.'
         },
         {
             id: 4,
+            tabTitle: 'Seismic',
+            title: 'Software Engineering Intern',
+            content: 'Enhanced user engagement and decreased support requests by engineering new UI features with Angular, React, and TypeScript. Streamlined backend processes with Node.js/Express and MongoDB, resulting in improved data processing time and system responsiveness. Resolved long-term bugs, leading to a reduction in support requests and enhanced customer satisfaction.'
+        },
+        {
+            id: 5,
             tabTitle: 'Communitech',
             title: 'Web Designer',
-            content: 'I boosted web traffic by 30% and increased online sales by 25% for 6 small businesses by designing and implementing fresh web content and developing e-commerce stores.'
+            content: 'Increased web traffic and boosted online sales for six small businesses through the design and implementation of fresh web content and the development of e-commerce stores.'
         }
     ];
 
