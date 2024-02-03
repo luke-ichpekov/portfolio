@@ -9,7 +9,7 @@ const about = {
   name: 'Luke Ichpekov',
   role: 'Software Engineer',
   description:
-    'Hello! I’m Luke, and I love building things on the internet. I’m a third-year computer engineering student with a passion for modern tech. I’ve been fortunate enough to work with B2B companies, startups, and clients through freelancing. My current focus is creating modern, functional, and highly scalable digital experiences at League Inc.',
+    'Hello! I’m Luke, and I love building things on the internet. I’m a fourth-year computer engineering student with a passion for modern tech. I’ve been fortunate enough to work with B2B companies, startups, and clients through freelancing.',
   social: {
     linkedin: 'https://www.linkedin.com/in/luke-ichpekov/',
     github: 'https://github.com/luke-ichpekov',
